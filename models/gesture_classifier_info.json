@@ -1,0 +1,10 @@
+{
+  "input_dim": 42,
+  "num_classes": 4,
+  "class_names": [
+    "Close",
+    "Dislike",
+    "Like",
+    "Open-hand"
+  ]
+}
