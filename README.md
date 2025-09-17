@@ -15,7 +15,7 @@ A sophisticated real-time hand gesture recognition system built with **MediaPipe
 ## 🏗️ Project Structure
 
 ```
-Hand Gesture/
+Hand_Gesture_Vision--Real_Time/
 ├── 📁 data/                                    # Training datasets
 │   ├── hand_landmarks_dataset.csv                 # Raw landmark data
 │   └── hand_landmarks_dataset_normalized_to_the_wrist.csv
@@ -53,7 +53,7 @@ Hand Gesture/
 
 1. **Clone and navigate to the project:**
 ```bash
-cd "Hand Guesture"
+cd "Hand_Gesture_Vision--Real_Time"
 ```
 
 2. **Create virtual environment (recommended):**
